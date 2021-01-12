@@ -8,8 +8,11 @@ h1 {
   text-align: center;
 }
 
-nav a{
+nav{
   margin: auto;
+}
+
+nav a{
   padding-right: 10px;
   padding-left: 10px;
   color: gray; 
