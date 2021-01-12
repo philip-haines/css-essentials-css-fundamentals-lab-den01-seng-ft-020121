@@ -5,10 +5,11 @@ body {
 }
 
 h1 {
-  text-align: : center;
+  text-align: center;
 }
 
 nav a{
+  margin: auto;
   padding-right: 10px;
   padding-left: 10px;
   color: gray; 
