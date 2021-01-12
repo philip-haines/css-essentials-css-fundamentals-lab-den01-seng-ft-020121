@@ -3,3 +3,13 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin: auto;
+}
+
+nav a{
+  padding-right: 10px;
+  padding-left: 10px;
+  color: gray; 
+}
